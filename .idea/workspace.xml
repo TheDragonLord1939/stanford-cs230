@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fba96494-878a-4f95-9245-5b2aafe1ee3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lec2/deep_neural_network_application/deep_neural_network_application.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec2/deep_neural_network_application/dnn_app_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec1/assign2/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec1/assign2/datasets/test_catvnoncat.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec1/assign2/datasets/train_catvnoncat.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec1/assign2/logistic_regression_with_a_neural_network_mindset.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec1/assign2/lr_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec2/buildinig_your_deep_network/building_your_deep_network.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lec2/buildinig_your_deep_network/building_your_deep_network.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="fba96494-878a-4f95-9245-5b2aafe1ee3e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +89,7 @@
       <workItem from="1579817192660" duration="845000" />
       <workItem from="1579857152892" duration="5501000" />
       <workItem from="1579870267572" duration="2000" />
-      <workItem from="1579870338876" duration="1414000" />
+      <workItem from="1579870338876" duration="2032000" />
     </task>
     <servers />
   </component>
