@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fba96494-878a-4f95-9245-5b2aafe1ee3e" name="Default Changelist" comment="" />
+    <list default="true" id="fba96494-878a-4f95-9245-5b2aafe1ee3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/buildinig_your_deep_network/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/buildinig_your_deep_network/building_your_deep_network.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/buildinig_your_deep_network/dnn_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/buildinig_your_deep_network/testCases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/deep_neural_network_application/datasets/test_catvnoncat.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/deep_neural_network_application/datasets/train_catvnoncat.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/deep_neural_network_application/deep_neural_network_application.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/deep_neural_network_application/dnn_app_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/planar_data_classification_with_a_hidden_layer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/planar_data_classification_with_a_hidden_layer/planar_data_classification_with_a_hidden_layer.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/planar_data_classification_with_a_hidden_layer/planar_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/planar_data_classification_with_a_hidden_layer/testCases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Neural Networks and Deep Learning/lec2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Neural Networks and Deep Learning/lec2/logistic_regression_with_a_neural_network_mindset/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Neural Networks and Deep Learning/lec2/logistic_regression_with_a_neural_network_mindset/datasets/test_catvnoncat.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Neural Networks and Deep Learning/lec2/logistic_regression_with_a_neural_network_mindset/datasets/train_catvnoncat.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Neural Networks and Deep Learning/lec2/logistic_regression_with_a_neural_network_mindset/logistic_regression_with_a_neural_network_mindset.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Neural Networks and Deep Learning/lec2/logistic_regression_with_a_neural_network_mindset/lr_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Neural Networks and Deep Learning/lec2/python_basics_with_numpy/python_basics_with_numpy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec1/logistic_regression_with_a_neural_network_mindset/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec1/logistic_regression_with_a_neural_network_mindset/datasets/test_catvnoncat.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec1/logistic_regression_with_a_neural_network_mindset/datasets/train_catvnoncat.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec1/logistic_regression_with_a_neural_network_mindset/logistic_regression_with_a_neural_network_mindset.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec1/logistic_regression_with_a_neural_network_mindset/lr_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec1/python_basics_with_numpy/python_basics_with_numpy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec2/buildinig_your_deep_network/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec2/buildinig_your_deep_network/building_your_deep_network.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec2/buildinig_your_deep_network/dnn_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec2/buildinig_your_deep_network/testCases.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec2/deep_neural_network_application/datasets/test_catvnoncat.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec2/deep_neural_network_application/datasets/train_catvnoncat.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec2/deep_neural_network_application/deep_neural_network_application.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec2/deep_neural_network_application/dnn_app_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec2/planar_data_classification_with_a_hidden_layer/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec2/planar_data_classification_with_a_hidden_layer/planar_data_classification_with_a_hidden_layer.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec2/planar_data_classification_with_a_hidden_layer/planar_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lec2/planar_data_classification_with_a_hidden_layer/testCases.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +75,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -89,12 +132,16 @@
       <workItem from="1579817192660" duration="845000" />
       <workItem from="1579857152892" duration="5501000" />
       <workItem from="1579870267572" duration="2000" />
-      <workItem from="1579870338876" duration="2032000" />
+      <workItem from="1579870338876" duration="2631000" />
+      <workItem from="1579886309356" duration="864000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2560" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579778993426">
