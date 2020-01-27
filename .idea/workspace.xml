@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fba96494-878a-4f95-9245-5b2aafe1ee3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/initialization.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/init_utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/initialization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/initialization.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -96,6 +97,7 @@
       <workItem from="1579870338876" duration="2631000" />
       <workItem from="1579886309356" duration="864000" />
       <workItem from="1579954508336" duration="2031000" />
+      <workItem from="1580050349539" duration="1139000" />
     </task>
     <servers />
   </component>
