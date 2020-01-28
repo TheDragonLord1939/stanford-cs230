@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fba96494-878a-4f95-9245-5b2aafe1ee3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/datasets/data.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/datasets/test_catvnoncat.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/datasets/train_catvnoncat.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/reg_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/regularization.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/testCases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/gradient_checking/gc_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/gradient_checking/gradient_checking.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/gradient_checking/testCases.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/optimization/optimization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/optimization/optimization.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/regularization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/regularization.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -29,6 +27,7 @@
   </component>
   <component name="JupyterTrust" id="c74e93fc-a178-4b77-b4a8-84802da4d64d">
     <option name="files">
+      <option value="Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization\lec4\gradient_checking\gradient_checking.ipynb" />
       <option value="Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization\lec4\initialization\initialization.ipynb" />
       <option value="Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization\lec4\optimization\optimization.ipynb" />
       <option value="Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization\lec4\regularization\regularization.ipynb" />
@@ -106,7 +105,7 @@
       <workItem from="1579954508336" duration="2031000" />
       <workItem from="1580050349539" duration="1139000" />
       <workItem from="1580145018836" duration="4071000" />
-      <workItem from="1580169050629" duration="6687000" />
+      <workItem from="1580169050629" duration="8791000" />
     </task>
     <servers />
   </component>
