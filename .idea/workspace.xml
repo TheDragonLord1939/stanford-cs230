@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fba96494-878a-4f95-9245-5b2aafe1ee3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/tensorflow_tutorial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/tensorflow_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/tensorflow_tutorial.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +103,7 @@
       <workItem from="1580050349539" duration="1139000" />
       <workItem from="1580145018836" duration="4071000" />
       <workItem from="1580169050629" duration="8791000" />
-      <workItem from="1580178118015" duration="211000" />
+      <workItem from="1580178118015" duration="1463000" />
     </task>
     <servers />
   </component>
