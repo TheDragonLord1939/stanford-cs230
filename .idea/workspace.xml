@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fba96494-878a-4f95-9245-5b2aafe1ee3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/gradient_checking/gc_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/gradient_checking/gradient_checking.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/gradient_checking/testCases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/tensorflow_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/optimization/optimization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/optimization/optimization.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/regularization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/regularization.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +28,7 @@
       <option value="Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization\lec4\initialization\initialization.ipynb" />
       <option value="Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization\lec4\optimization\optimization.ipynb" />
       <option value="Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization\lec4\regularization\regularization.ipynb" />
+      <option value="Structuring Machine Learning Projects\lec5\tensorflow\tensorflow.ipynb" />
     </option>
   </component>
   <component name="ProjectId" id="1Wk8QLDxfULGRIKrv5qthzvsNWm" />
@@ -59,16 +57,16 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yejihan\Documents\cs230\lec2" />
+      <recent name="C:\Users\yejihan\Documents\cs230\lec1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\yejihan\Documents\cs230\Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization\lec4\initialization" />
       <recent name="C:\Users\yejihan\Documents\cs230\lec2\deep_neural_network_application" />
       <recent name="C:\Users\yejihan\Documents\cs230\lec2\buildinig_your_deep_network" />
       <recent name="C:\Users\yejihan\Documents\cs230\lec2\planar_data_classification_with_a_hidden_layer" />
       <recent name="C:\Users\yejihan\Documents\cs230\lec1\assign2" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\yejihan\Documents\cs230\lec2" />
-      <recent name="C:\Users\yejihan\Documents\cs230\lec1" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -106,6 +104,7 @@
       <workItem from="1580050349539" duration="1139000" />
       <workItem from="1580145018836" duration="4071000" />
       <workItem from="1580169050629" duration="8791000" />
+      <workItem from="1580178118015" duration="211000" />
     </task>
     <servers />
   </component>
