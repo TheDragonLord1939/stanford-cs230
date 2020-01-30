@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fba96494-878a-4f95-9245-5b2aafe1ee3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/datasets/test_signs.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/datasets/train_signs.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/improv_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/tf_utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/tensorflow_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/tensorflow_tutorial.ipynb" afterDir="false" />
     </list>
@@ -13,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -44,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lec2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,6 +61,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yejihan\Documents\cs230\Structuring Machine Learning Projects\lec5\tensorflow_tutorial" />
       <recent name="C:\Users\yejihan\Documents\cs230\lec2" />
       <recent name="C:\Users\yejihan\Documents\cs230\lec1" />
     </key>
@@ -103,7 +108,7 @@
       <workItem from="1580050349539" duration="1139000" />
       <workItem from="1580145018836" duration="4071000" />
       <workItem from="1580169050629" duration="8791000" />
-      <workItem from="1580178118015" duration="1463000" />
+      <workItem from="1580178118015" duration="12505000" />
     </task>
     <servers />
   </component>
