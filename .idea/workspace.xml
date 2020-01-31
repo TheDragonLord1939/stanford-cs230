@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fba96494-878a-4f95-9245-5b2aafe1ee3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/datasets/test_signs.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/datasets/train_signs.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/improv_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/tf_utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/tensorflow_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/tensorflow_tutorial.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +105,7 @@
       <workItem from="1580050349539" duration="1139000" />
       <workItem from="1580145018836" duration="4071000" />
       <workItem from="1580169050629" duration="8791000" />
-      <workItem from="1580178118015" duration="12505000" />
+      <workItem from="1580178118015" duration="13796000" />
     </task>
     <servers />
   </component>
