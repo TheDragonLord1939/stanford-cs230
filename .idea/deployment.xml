@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="jovyan@143.248.211.180:32332">
+  <component name="PublishConfigData" autoUpload="Always">
     <serverData>
-      <paths name="jovyan@143.248.211.180:32332">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/cs230" local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </paths>
       <paths name="yeji@127.0.0.1:8888">
         <serverdata>
           <mappings>
