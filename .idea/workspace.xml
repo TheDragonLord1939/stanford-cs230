@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fba96494-878a-4f95-9245-5b2aafe1ee3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Convolutional Neural Networks/lec6/convolutional_neural_network/cnn_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Convolutional Neural Networks/lec6/convolutional_neural_network/convolutional_neural_network.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Convolutional Neural Networks/lec6/convolutional_neural_network_application.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Convolutional Neural Networks/lec6/keras_tutorial.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Convolutional Neural Networks/lec6/residual_networks.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Convolutional Neural Networks/lec7/art_generation_with_neural_style_transfer.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Convolutional Neural Networks/lec7/car_detection_with_yolov2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Convolutional Neural Networks/lec7/face_recognition_for_the_happy_house.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +30,17 @@
   </component>
   <component name="JupyterTrust" id="c74e93fc-a178-4b77-b4a8-84802da4d64d">
     <option name="files">
+      <option value="Convolutional Neural Networks\lec6\convolutional_neural_network\convolutional_neural_network.ipynb" />
+      <option value="Convolutional Neural Networks\lec6\convolutional_neural_network_application.ipynb" />
+      <option value="Convolutional Neural Networks\lec6\keras_tutorial.ipynb" />
+      <option value="Convolutional Neural Networks\lec6\residual_networks.ipynb" />
+      <option value="Convolutional Neural Networks\lec7\art_generation_with_neural_style_transfer.ipynb" />
+      <option value="Convolutional Neural Networks\lec7\car_detection_with_yolov2.ipynb" />
+      <option value="Convolutional Neural Networks\lec7\face_recognition_for_the_happy_house.ipynb" />
       <option value="Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization\lec4\gradient_checking\gradient_checking.ipynb" />
       <option value="Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization\lec4\initialization\initialization.ipynb" />
       <option value="Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization\lec4\optimization\optimization.ipynb" />
       <option value="Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization\lec4\regularization\regularization.ipynb" />
-      <option value="Structuring Machine Learning Projects\lec5\tensorflow\tensorflow.ipynb" />
     </option>
   </component>
   <component name="ProjectId" id="1Wk8QLDxfULGRIKrv5qthzvsNWm" />
@@ -55,17 +69,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yejihan\Documents\cs230\Convolutional Neural Networks\lec6\convolutional_neural_network" />
+      <recent name="C:\Users\yejihan\Documents\cs230\Convolutional Neural Networks\lec7" />
+      <recent name="C:\Users\yejihan\Documents\cs230\Convolutional Neural Networks\lec6" />
+      <recent name="C:\Users\yejihan\Documents\cs230\Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization\lec4\initialization" />
+      <recent name="C:\Users\yejihan\Documents\cs230\lec2\deep_neural_network_application" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\yejihan\Documents\cs230\Structuring Machine Learning Projects\lec5\tensorflow_tutorial" />
       <recent name="C:\Users\yejihan\Documents\cs230\lec2" />
       <recent name="C:\Users\yejihan\Documents\cs230\lec1" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\yejihan\Documents\cs230\Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization\lec4\initialization" />
-      <recent name="C:\Users\yejihan\Documents\cs230\lec2\deep_neural_network_application" />
-      <recent name="C:\Users\yejihan\Documents\cs230\lec2\buildinig_your_deep_network" />
-      <recent name="C:\Users\yejihan\Documents\cs230\lec2\planar_data_classification_with_a_hidden_layer" />
-      <recent name="C:\Users\yejihan\Documents\cs230\lec1\assign2" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -104,6 +118,7 @@
       <workItem from="1580145018836" duration="4071000" />
       <workItem from="1580169050629" duration="8791000" />
       <workItem from="1580178118015" duration="15596000" />
+      <workItem from="1580553469493" duration="4472000" />
     </task>
     <servers />
   </component>
