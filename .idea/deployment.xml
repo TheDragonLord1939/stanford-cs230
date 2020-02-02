@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData">
+  <component name="PublishConfigData" autoUpload="Always" serverName="jovyan@143.248.211.180:32332">
     <serverData>
-      <paths name="jovyan@143.248.211.180:30376">
+      <paths name="jovyan@143.248.211.180:32332">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/cs230" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
@@ -24,5 +24,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
