@@ -2,108 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fba96494-878a-4f95-9245-5b2aafe1ee3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1. Neural Networks and Deep Learning/lec2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Neural Networks and Deep Learning/lec2/logistic_regression_with_a_neural_network_mindset/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Neural Networks and Deep Learning/lec2/logistic_regression_with_a_neural_network_mindset/datasets/test_catvnoncat.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Neural Networks and Deep Learning/lec2/logistic_regression_with_a_neural_network_mindset/datasets/train_catvnoncat.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Neural Networks and Deep Learning/lec2/logistic_regression_with_a_neural_network_mindset/logistic_regression_with_a_neural_network_mindset.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Neural Networks and Deep Learning/lec2/logistic_regression_with_a_neural_network_mindset/lr_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Neural Networks and Deep Learning/lec2/python_basics_with_numpy/python_basics_with_numpy.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/buildinig_your_deep_network/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/buildinig_your_deep_network/building_your_deep_network.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/buildinig_your_deep_network/dnn_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/buildinig_your_deep_network/testCases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/deep_neural_network_application/datasets/test_catvnoncat.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/deep_neural_network_application/datasets/train_catvnoncat.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/deep_neural_network_application/deep_neural_network_application.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/deep_neural_network_application/dnn_app_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/planar_data_classification_with_a_hidden_layer/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/planar_data_classification_with_a_hidden_layer/planar_data_classification_with_a_hidden_layer.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/planar_data_classification_with_a_hidden_layer/planar_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/planar_data_classification_with_a_hidden_layer/testCases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/gradient_checking/gc_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/gradient_checking/gradient_checking.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/gradient_checking/testCases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/initialization/init_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/initialization/initialization.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/optimization/opt_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/optimization/optimization.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/optimization/testCases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/datasets/data.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/datasets/test_catvnoncat.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/datasets/train_catvnoncat.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/reg_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/regularization.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/testCases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Structuring Machine Learning Projects/lec5/tensorflow_tutorial/datasets/test_signs.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Structuring Machine Learning Projects/lec5/tensorflow_tutorial/datasets/train_signs.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Structuring Machine Learning Projects/lec5/tensorflow_tutorial/improv_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Structuring Machine Learning Projects/lec5/tensorflow_tutorial/tensorflow_tutorial.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. Structuring Machine Learning Projects/lec5/tensorflow_tutorial/tf_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec6/convolutional_neural_network/cnn_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec6/convolutional_neural_network/convolutional_neural_network.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec6/convolutional_neural_network/convolutional_neural_network_application.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec6/convolutional_neural_network/datasets/test_signs.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec6/convolutional_neural_network/datasets/train_signs.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec6/keras_tutorial/datasets/test_happy.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec6/keras_tutorial/datasets/train_happy.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec6/keras_tutorial/keras_tutorial.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec6/keras_tutorial/kt_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec6/residual_networks/datasets/test_signs.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec6/residual_networks/datasets/train_signs.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec6/residual_networks/residual_networks.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec6/residual_networks/resnets_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/art_generation_with_neural_style_transfer.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/car_detection_with_yolov2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/face_recognition_for_the_happy_house.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Convolutional Neural Networks/lec6/convolutional_neural_network/cnn_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Convolutional Neural Networks/lec6/convolutional_neural_network/convolutional_neural_network.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Convolutional Neural Networks/lec6/convolutional_neural_network/convolutional_neural_network_application.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Convolutional Neural Networks/lec6/keras_tutorial.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Convolutional Neural Networks/lec6/residual_networks.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Convolutional Neural Networks/lec7/art_generation_with_neural_style_transfer.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Convolutional Neural Networks/lec7/car_detection_with_yolov2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Convolutional Neural Networks/lec7/face_recognition_for_the_happy_house.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/buildinig_your_deep_network/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/buildinig_your_deep_network/building_your_deep_network.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/buildinig_your_deep_network/dnn_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/buildinig_your_deep_network/testCases.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/deep_neural_network_application/datasets/test_catvnoncat.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/deep_neural_network_application/datasets/train_catvnoncat.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/deep_neural_network_application/deep_neural_network_application.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/deep_neural_network_application/dnn_app_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/planar_data_classification_with_a_hidden_layer/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/planar_data_classification_with_a_hidden_layer/planar_data_classification_with_a_hidden_layer.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/planar_data_classification_with_a_hidden_layer/planar_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec3/planar_data_classification_with_a_hidden_layer/testCases.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/gradient_checking/gc_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/gradient_checking/gradient_checking.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/gradient_checking/testCases.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/initialization/init_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/initialization/initialization.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/optimization/opt_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/optimization/optimization.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/optimization/testCases.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/datasets/data.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/datasets/test_catvnoncat.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/datasets/train_catvnoncat.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/reg_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/regularization.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization/lec4/regularization/testCases.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Neural Networks and Deep Learning/lec2/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Neural Networks and Deep Learning/lec2/logistic_regression_with_a_neural_network_mindset/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Neural Networks and Deep Learning/lec2/logistic_regression_with_a_neural_network_mindset/datasets/test_catvnoncat.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Neural Networks and Deep Learning/lec2/logistic_regression_with_a_neural_network_mindset/datasets/train_catvnoncat.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Neural Networks and Deep Learning/lec2/logistic_regression_with_a_neural_network_mindset/logistic_regression_with_a_neural_network_mindset.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Neural Networks and Deep Learning/lec2/logistic_regression_with_a_neural_network_mindset/lr_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Neural Networks and Deep Learning/lec2/python_basics_with_numpy/python_basics_with_numpy.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/datasets/test_signs.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/datasets/train_signs.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/improv_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/tensorflow_tutorial.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Structuring Machine Learning Projects/lec5/tensorflow_tutorial/tf_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../waddle/waddle-ocr" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -224,6 +123,7 @@
       <workItem from="1580553469493" duration="15102000" />
       <workItem from="1580655308012" duration="366000" />
       <workItem from="1580828329344" duration="599000" />
+      <workItem from="1580999429179" duration="623000" />
     </task>
     <servers />
   </component>
@@ -244,11 +144,12 @@
     </state>
     <state x="2560" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579778993426" />
     <state x="512" y="202" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1579974958666" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1580652259766">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="686" y="211" key="FileChooserDialogImpl" timestamp="1581042742694">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1580646693957" />
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580652259766" />
+    <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581042742694" />
     <state width="1493" height="167" key="GridCell.Tab.0.bottom" timestamp="1580655336188">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
