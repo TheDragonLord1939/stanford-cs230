@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fba96494-878a-4f95-9245-5b2aafe1ee3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/car_detection_with_yolov2/yad2k/models/keras_darknet19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/car_detection_with_yolov2/yad2k/models/keras_yolo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/car_detection_with_yolov2/yad2k/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/car_detection_with_yolov2/yad2k/utils/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/car_detection_with_yolov2/yolo_utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/car_detection_with_yolov2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/car_detection_with_yolov2/car_detection_with_yolov2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +26,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/yejihan-ai/cs230.git" />
+      </set>
+    </option>
+  </component>
   <component name="JupyterTrust" id="c74e93fc-a178-4b77-b4a8-84802da4d64d" />
   <component name="ProjectId" id="1Wk8QLDxfULGRIKrv5qthzvsNWm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -35,6 +48,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../waddle/waddle-ocr" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -44,20 +62,20 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\yejihan\Documents\cs230\Convolutional Neural Networks\lec6\convolutional_neural_network" />
-      <recent name="C:\Users\yejihan\Documents\cs230\Convolutional Neural Networks\lec7" />
-      <recent name="C:\Users\yejihan\Documents\cs230\Convolutional Neural Networks\lec6" />
-      <recent name="C:\Users\yejihan\Documents\cs230\Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization\lec4\initialization" />
-      <recent name="C:\Users\yejihan\Documents\cs230\lec2\deep_neural_network_application" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\yejihan\Documents\cs230\Structuring Machine Learning Projects\lec5\tensorflow_tutorial" />
       <recent name="C:\Users\yejihan\Documents\cs230\lec2" />
       <recent name="C:\Users\yejihan\Documents\cs230\lec1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yejihan\Documents\cs230\4. Convolutional Neural Networks\lec7\car_detection_with_yolov2" />
+      <recent name="C:\Users\yejihan\Documents\cs230\Convolutional Neural Networks\lec6\convolutional_neural_network" />
+      <recent name="C:\Users\yejihan\Documents\cs230\Convolutional Neural Networks\lec7" />
+      <recent name="C:\Users\yejihan\Documents\cs230\Convolutional Neural Networks\lec6" />
+      <recent name="C:\Users\yejihan\Documents\cs230\Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization\lec4\initialization" />
     </key>
   </component>
   <component name="RunManager">
@@ -124,6 +142,7 @@
       <workItem from="1580655308012" duration="366000" />
       <workItem from="1580828329344" duration="599000" />
       <workItem from="1580999429179" duration="623000" />
+      <workItem from="1581065266794" duration="2660000" />
     </task>
     <servers />
   </component>
@@ -150,63 +169,63 @@
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1580646693957" />
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580652259766" />
     <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581042742694" />
-    <state width="1493" height="167" key="GridCell.Tab.0.bottom" timestamp="1580655336188">
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1581082690898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="167" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1580655336188" />
     <state width="1877" height="226" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580640761889" />
-    <state width="723" height="167" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580653760522" />
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581082690898" />
     <state width="914" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579813353412" />
-    <state width="1493" height="167" key="GridCell.Tab.0.center" timestamp="1580655336188">
+    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1581082690898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="167" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1580655336188" />
     <state width="1877" height="226" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580640761889" />
-    <state width="723" height="167" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580653760522" />
+    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581082690898" />
     <state width="914" height="352" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579813353411" />
-    <state width="1493" height="167" key="GridCell.Tab.0.left" timestamp="1580655336187">
+    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1581082690898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="167" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1580655336187" />
     <state width="1877" height="226" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580640761889" />
-    <state width="723" height="167" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580653760521" />
+    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581082690898" />
     <state width="914" height="352" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579813353411" />
-    <state width="1493" height="167" key="GridCell.Tab.0.right" timestamp="1580655336188">
+    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1581082690898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="167" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1580655336188" />
     <state width="1877" height="226" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580640761889" />
-    <state width="723" height="167" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580653760522" />
+    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581082690898" />
     <state width="914" height="352" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579813353411" />
-    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1580640362142">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom" timestamp="1581081311132">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580640362142" />
-    <state width="723" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579753472416" />
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581081311132" />
     <state width="914" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579813353412" />
-    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1580640362141">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="264" key="GridCell.Tab.1.center" timestamp="1581081311132">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580640362141" />
-    <state width="723" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1579753472415" />
+    <state width="1493" height="264" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581081311132" />
     <state width="914" height="352" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579813353412" />
-    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1580640362141">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="264" key="GridCell.Tab.1.left" timestamp="1581081311132">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580640362141" />
-    <state width="723" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1579753472415" />
+    <state width="1493" height="264" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581081311132" />
     <state width="914" height="352" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579813353412" />
-    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1580640362141">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1493" height="264" key="GridCell.Tab.1.right" timestamp="1581081311132">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580640362141" />
-    <state width="723" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1579753472416" />
+    <state width="1493" height="264" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581081311132" />
     <state width="914" height="352" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579813353412" />
-    <state x="47" y="21" key="SettingsEditor" timestamp="1580652438814">
+    <state x="47" y="21" key="SettingsEditor" timestamp="1581081361102">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="2586" y="215" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580640717800" />
-    <state x="47" y="21" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580652438814" />
+    <state x="47" y="21" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581081361102" />
     <state x="2826" y="303" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1580638405408">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
