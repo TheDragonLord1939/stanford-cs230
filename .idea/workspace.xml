@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fba96494-878a-4f95-9245-5b2aafe1ee3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/car_detection_with_yolov2/yad2k/models/keras_darknet19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/car_detection_with_yolov2/yad2k/models/keras_yolo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/car_detection_with_yolov2/yad2k/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/car_detection_with_yolov2/yad2k/utils/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/car_detection_with_yolov2/yolo_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/car_detection_with_yolov2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/car_detection_with_yolov2/car_detection_with_yolov2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/car_detection_with_yolov2/car_detection_with_yolov2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4. Convolutional Neural Networks/lec7/car_detection_with_yolov2/car_detection_with_yolov2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,6 +137,7 @@
       <workItem from="1580828329344" duration="599000" />
       <workItem from="1580999429179" duration="623000" />
       <workItem from="1581065266794" duration="2660000" />
+      <workItem from="1581254977189" duration="7000" />
     </task>
     <servers />
   </component>
