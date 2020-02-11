@@ -47,7 +47,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../waddle/waddle-ocr" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cs372" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -138,6 +138,7 @@
       <workItem from="1580999429179" duration="623000" />
       <workItem from="1581065266794" duration="2660000" />
       <workItem from="1581254977189" duration="7000" />
+      <workItem from="1581359123338" duration="35000" />
     </task>
     <servers />
   </component>
@@ -158,12 +159,12 @@
     </state>
     <state x="2560" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579778993426" />
     <state x="512" y="202" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1579974958666" />
-    <state x="686" y="211" key="FileChooserDialogImpl" timestamp="1581042742694">
+    <state x="686" y="211" key="FileChooserDialogImpl" timestamp="1581359157016">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1580646693957" />
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580652259766" />
-    <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581042742694" />
+    <state x="686" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581359157016" />
     <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1581082690898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
